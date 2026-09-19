@@ -17,7 +17,7 @@ int main() {
     //display hello world
     printf("hello world\n");
     printf("Welcom to Zetech this is the home of future tech leaders\n");
-    printf("We learn programming languages such as\n");
+    printf("We learn programming languages\n");
     printf("here are the languages below\n");
     printf("Java, c++, python and javascript\n");
     return 0;
